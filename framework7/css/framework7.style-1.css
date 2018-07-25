@@ -14,3 +14,26 @@
 input[type=number]::-webkit-inner-spin-button {
   opacity: 1;
 }
+.ios .login-screen-content .login-screen-title .style-tag-a{
+	font-size: 25px;
+}
+.ios .navbar .title{
+	margin-top: 5px; 
+	margin-left: 0.5rem;
+}
+.item-title{
+	line-height: 25px !important;
+}
+.style_lable{
+	padding-left: 65px !important;
+}
+.item-input-wrap{
+	display: flex !important;
+	align-items: center !important;
+}
+div.page div.navbar div.back_all > a > img{
+	height: 50px;
+}
+div.page div.navbar div.back_all > a > span{
+	color: black;
+}
